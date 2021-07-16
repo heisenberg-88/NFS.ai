@@ -12,5 +12,5 @@ Validation accuracy = 91.80 %
 ## Tensorboard 
 ![Screenshot 2021-07-16 233651](https://user-images.githubusercontent.com/75937169/125998266-ccf086b8-2776-4f7a-bf14-f0cfd4d2ea91.png)
 
-## accuracy after 10 EPOCHS
+## accuracy after 10 EPOCHS -> 91.64 %
 ![Screenshot 2021-07-16 233536](https://user-images.githubusercontent.com/75937169/125998271-c90b5f74-ab9c-415e-982d-16641b29f9c5.png)
