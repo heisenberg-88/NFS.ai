@@ -2,7 +2,15 @@
 
 latest_ver_2...
 
-Accuracy = 93.6 %                                                                                     Validation accuracy = 94.73 %
+Accuracy = 93.6 %                                                                           
+Validation accuracy = 94.73 %
+
+
+
+https://user-images.githubusercontent.com/75937169/126048482-7ba619dd-ebdf-4c0d-ae6a-acba3cbefc49.mp4
+
+
+
 ![Screenshot 2021-07-18 004016](https://user-images.githubusercontent.com/75937169/126048318-9a9816f6-0f29-4765-96f1-03b62740e6a8.png)
 
 
