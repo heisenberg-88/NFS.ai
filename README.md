@@ -5,7 +5,9 @@ Currently in ver_2 , this model behavees better on highways and wide roads with 
 Accuracy = 93.6 %                                                                                                                                                                  
 Validation accuracy = 94.73 %                 AFTER 15 EPOCHS (Due to resource limitations)
 
-
+RAW FOOTAGE to check how this model behaves:
+https://youtu.be/oaTM02lIETg
+https://youtu.be/pUDBZAp3DP8
 
 https://user-images.githubusercontent.com/75937169/126048482-7ba619dd-ebdf-4c0d-ae6a-acba3cbefc49.mp4
 
