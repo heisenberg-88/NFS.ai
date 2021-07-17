@@ -1,3 +1,16 @@
+## Implementing self driving car in NFS:MW 2012 sandbox environment using tflearn-Alexnet CNN ,lane detection
+
+latest_ver_2...
+
+Accuracy = 93.6 %                                                                                     Validation accuracy = 94.73 %
+![Screenshot 2021-07-18 004016](https://user-images.githubusercontent.com/75937169/126048318-9a9816f6-0f29-4765-96f1-03b62740e6a8.png)
+
+
+![Screenshot 2021-07-18 004046](https://user-images.githubusercontent.com/75937169/126048319-f24f8fbd-cc5d-4523-922f-5f613efb04ec.png)
+
+
+
+
 
 
 ## (ver_1) Implementing self driving car in NFS:MW 2012 sandbox environment using tflearn-Alexnet CNN ,lane detection
@@ -8,8 +21,9 @@ Accuracy = 91.64 %
 Validation accuracy = 91.80 %
   ... this is calculated after 10 epochs.
 
--> for generating training data , use "training_data_collector.py"  from  "latest_july21" folder.
--> input frames are captured from LEFT-TOP corner of the screen in resolution '800 x 600'
+-> for generating training data , use "training_data_collector.py"  from  "latest_july21" folder.                                                                                 
+
+-> input frames are captured from LEFT-TOP corner of the screen in resolution '800 x 600'.
 
 https://user-images.githubusercontent.com/75937169/126033375-bdea94e9-4a4f-4b4c-81b3-4fb9c482fa89.mp4
 
