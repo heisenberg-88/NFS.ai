@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/75937169/126033375-bdea94e9-4a4f-4b4c-81b3-4fb9c482fa89.mp4
+
 ## (ver_1) Implementing self driving car in NFS:MW 2012 sandbox environment using tflearn-Alexnet CNN ,lane detection
 
 This is version_1.00 of this project
