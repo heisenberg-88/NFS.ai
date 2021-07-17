@@ -6,9 +6,8 @@ Accuracy = 93.6 %
 Validation accuracy = 94.73 %                 AFTER 15 EPOCHS (Due to resource limitations)
 
 RAW FOOTAGE to check how this model behaves:
-https://youtu.be/oaTM02lIETg
-https://youtu.be/pUDBZAp3DP8
-
+https://youtu.be/_uycuLdZTN4
+https://youtu.be/NkuiH1UMiHs
 https://user-images.githubusercontent.com/75937169/126048482-7ba619dd-ebdf-4c0d-ae6a-acba3cbefc49.mp4
 
 
