@@ -10,6 +10,9 @@ https://youtu.be/_uycuLdZTN4
 https://youtu.be/NkuiH1UMiHs
 
 
+Training data & Model : https://1drv.ms/u/s!AizZTWOt5j3cgXguYPDRqzz6hMU_?e=tTSs4l
+
+
 https://user-images.githubusercontent.com/75937169/126048482-7ba619dd-ebdf-4c0d-ae6a-acba3cbefc49.mp4
 
 
@@ -18,6 +21,9 @@ https://user-images.githubusercontent.com/75937169/126048482-7ba619dd-ebdf-4c0d-
 
 
 ![Screenshot 2021-07-18 004046](https://user-images.githubusercontent.com/75937169/126048319-f24f8fbd-cc5d-4523-922f-5f613efb04ec.png)
+
+                                                                                                                                                                               
+
 
 
 
