@@ -1,5 +1,7 @@
 ## Implementing self driving car in NFS:MW 2012 sandbox environment using tflearn-Alexnet CNN ,lane detection
 
+TRAINED AND TESTED ON PYTHON 3.7 & TENSORFLOW 2.5
+
 latest_ver_2...
 Currently in ver_2 , this model behavees better on highways and wide roads with proper lane markings.                                                                            
 Accuracy = 93.6 %                                                                                                                                                                  
