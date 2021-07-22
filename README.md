@@ -3,7 +3,7 @@
 TRAINED AND TESTED ON PYTHON 3.7 & TENSORFLOW 2.5
 
 latest_ver_2...
-Currently in ver_2 , this model behavees better on highways and wide roads with proper lane markings.                                                                            
+Currently in ver_2 , this model behaves better on highways and wide roads with proper lane markings.                                                                            
 Accuracy = 93.6 %                                                                                                                                                                  
 Validation accuracy = 94.73 %                 AFTER 15 EPOCHS (Due to resource limitations)
 
